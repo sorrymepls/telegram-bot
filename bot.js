@@ -4,7 +4,7 @@ const Markup = require('telegraf/markup');
 const myId = 333988817;
 const saniaId = 396190668;
 
-const bot = new Telegraf('1158433041:AAFZv0hCXuo3o_LsXNXFJMODC0fPPKAccRU');
+const bot = new Telegraf('1158433041:AAFW1-43U3lSVNP4-YgyNwvraNMaQRi-sCA');
 
 // bot.use((ctx) => {
 //   Telegraf.log();
